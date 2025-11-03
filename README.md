@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a final year Computer Engineering Student .
+Working as a SDE-I
 
 
 # 💻 Tech Stack:
