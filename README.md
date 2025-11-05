@@ -26,7 +26,7 @@
 <br><br>     
 
 #  About Me:
-I am currently working as an SDE-I , Would love to collaborated on tech projects 
+I'm an SDE-I with a passion for building robust and scalable software. I thrive in collaborative environments and am actively seeking opportunities to partner on new tech ventures—especially those involving Gen AI, Golang, React. Let's create something cool! 
 
 
 #  Tech Stack:
