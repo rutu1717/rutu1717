@@ -1,4 +1,4 @@
-## Hello I'm Ruturaj Nice to Meet You !! (#--gifs-for-readme--)
+## Hello I'm Ruturaj Nice to Meet You !!
 
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
@@ -26,7 +26,7 @@
 <br><br>     
 
 #  About Me:
-I am currently working as an SDE-I . would love to collaborated on tech projects 
+I am currently working as an SDE-I , Would love to collaborated on tech projects 
 
 
 #  Tech Stack:
