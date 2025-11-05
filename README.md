@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm Ruturaj! Nice to Meet You!
-![Ruturaj SDE-I Profile Picture]()
+![Ruturaj SDE-I Profile Picture](https://github.com/rutu1717/rutu1717/blob/main/github-header-banner%20(2).png)
 
 #  About Me:
 I'm an SDE-I with a passion for building robust and scalable software. I thrive in collaborative environments and am actively seeking opportunities to partner on new tech ventures—especially those involving Gen AI, Golang, React. Let's create something cool! 
